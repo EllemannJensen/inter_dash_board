@@ -1,0 +1,36 @@
+Kundennummer;Kundenname;Verkäufer;Manager;Produkt;Anzahl;Preis;Status
+714466;Verlagshaus Mayer;Susi Sonne;Mike Mikkels;Online;1;30000;Angebot
+714466;Verlagshaus Mayer;Susi Sonne;Mike Mikkels;Print;1;10000;Angebot
+714466;Verlagshaus Mayer;Susi Sonne;Mike Mikkels;Event;2;5000;Ausstehend
+714466;Verlagshaus Mayer;Susi Sonne;Mike Mikkels;Online;2;65000;Gewonnen
+714466;Verlagshaus Mayer;Susi Sonne;Mike Mikkels;Online;2;40000;Ausstehend
+714466;Verlagshaus Mayer;Susi Sonne;Mike Mikkels;Event;1;10000;Angebot
+714466;Verlagshaus Mayer;Susi Sonne;Mike Mikkels;Print;2;5000;Ausstehend
+714466;Verlagshaus Mayer;Susi Sonne;Mike Mikkels;Online;1;35000;Abgelehnt
+737550;Grund AG;Susi Sonne;Mike Mikkels;Online;1;35000;Ausstehend
+146832;Ferdinand LLC;Daniel Dag;Mike Mikkels;Online;2;65000;Gewonnen
+218895;Curato Inc;Daniel Dag;Mike Mikkels;Online;2;40000;Ausstehend
+218895;Curato Inc;Daniel Dag;Mike Mikkels;Event;1;10000;Angebot
+412290;Rat und Schneider;Lisa Muller;Mike Mikkels;Print;2;5000;Ausstehend
+740150;Hauser LLC;Lisa Muller;Mike Mikkels;Online;1;35000;Abgelehnt
+141962;Hauser LLC;Frank Frei;Anna Anton;Online;2;65000;Gewonnen
+163416;Hästens AG;Frank Frei;Anna Anton;Online;1;30000;Angebot
+163416;Hästens AG;Frank Frei;Anna Anton;Online;1;3000;Angebot
+163416;Hästens AG;Frank Frei;Anna Anton;Online;3;10000;Ausstehend
+163416;Hästens AG;Frank Frei;Anna Anton;Online;1;3000;Abgelehnt
+163416;Hästens AG;Frank Frei;Anna Anton;Online;2;1500;Gewonnen
+163416;Hästens AG;Frank Frei;Anna Anton;Online;4;2000;Angebot
+163416;Hästens AG;Frank Frei;Anna Anton;Online;5;14000;Angebot
+163416;Hästens AG;Frank Frei;Anna Anton;Online;1;1000;Ausstehend
+239344;Bertram Inc;Frank Frei;Anna Anton;Event;1;5000;Ausstehend
+239344;Bertram Inc;Frank Frei;Anna Anton;Print;1;10000;Angebot
+239344;Bertram Inc;Frank Frei;Anna Anton;Online;2;2000;Abgelehnt
+239344;Bertram Inc;Frank Frei;Anna Anton;Online;1;1000;Ausstehend
+239344;Bertram Inc;Frank Frei;Anna Anton;Online;3;500;Gewonnen
+307599;TTB Rach und Tomas;Tina Timm;Anna Anton;Event;3;7000;Gewonnen
+688981;Kött Ltd;Tina Timm;Anna Anton;Online;5;100000;Gewonnen
+729833;Traube Stiftung;Tina Timm;Anna Anton;Event;1;10000;Ausstehend
+729833;Traube Stiftung;Tina Timm;Anna Anton;Print;2;2000;Abgelehnt
+729833;Traube Stiftung;Tina Timm;Anna Anton;Print;1;1500;Gewonnen
+729833;Traube Stiftung;Tina Timm;Anna Anton;Online;2;65000;Abgelehnt
+729833;Traube Stiftung;Tina Timm;Anna Anton;Advertorial;2;5000;Angebot
