@@ -5,10 +5,10 @@ import plotly.graph_objs as go
 import pandas as pd
 
 #read in the data
-df = pd.read_csv ('/Users/elisabethwolff/inter_dash_board/inter_dash_board/data/Sales_funnel.csv', sep=';')
+df = pd.read_csv ('https://raw.githubusercontent.com/EllemannJensen/inter_dash_board/main/data/Sales_funnel.csv', sep=';')
 #pivo = pd.pivot_table(df, index=['Name'], columns=["Status"], values=['Anzahl'], aggfunc=sum, fill_value=0)
 
- 
+
 # get all the managers for the dropdown 
 m_options = df["Manager"].unique()
 
