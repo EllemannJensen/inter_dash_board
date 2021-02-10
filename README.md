@@ -1,1 +1,1 @@
-# inter_dash_board
+# simple sales funnel by manager
